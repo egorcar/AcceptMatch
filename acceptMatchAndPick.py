@@ -15,7 +15,7 @@ pick2 = "select1more.png"
 click_x = 960
 click_y = 513
 
-pushbullet_api_key = "o.4HxAzwfcr5P3pf5i8LtCHdOeEm05pfIA"
+pushbullet_api_key = "YOUR_PUSHBULLET_API_KEY"
 
 pb = Pushbullet(pushbullet_api_key)
 
